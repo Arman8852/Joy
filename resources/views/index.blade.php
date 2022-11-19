@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="Hi!I am Joy Dutta. I have completed B.Sc. in Mechanical Engineering from CUET, Bangladesh and currently pursuing PhD at New Jersey Institute of Technology (NJIT), USA. ">
     <meta name="author" content="Devcrud">
-    <title>Joy Dutta</title>
+    <title>Joy Dutta: An AI enthusiast Mechanical Engineer</title>
     <!-- font icons -->
     <link rel="stylesheet" href="assets/vendors/themify-icons/css/themify-icons.css">
     <!-- Bootstrap + JohnDoe main styles -->
