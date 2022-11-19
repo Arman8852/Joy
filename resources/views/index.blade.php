@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="Start your development with JohnDoe landing page.">
+    <meta name="description" content="Hi!I am Joy Dutta. I have completed B.Sc. in Mechanical Engineering from CUET, Bangladesh and currently pursuing PhD at New Jersey Institute of Technology (NJIT), USA. ">
     <meta name="author" content="Devcrud">
     <title>Joy Dutta</title>
     <!-- font icons -->
