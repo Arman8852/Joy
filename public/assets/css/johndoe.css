@@ -11499,7 +11499,10 @@ pre .code {
 }
 
 .footer {
-  background: #17263C;
+  background: #1abc9c;
+  background-image: url("/assets/images/footer-bg.png");
+  
+
 }
 
 .header {

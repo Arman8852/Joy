@@ -21,3 +21,6 @@ Route::get('/google/', function () {
     return view('googlec9cc2daf18cff5cd');
 });
 
+Route::get('/research_&_project', function () {
+    return view('research');
+});
